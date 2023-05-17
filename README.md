@@ -1,5 +1,6 @@
 ### Hi there 👋, my name is Stuart Greenley
 
+![Bright Blue White Pastel Yellow Gradient Support Service Advertising Banner (1)](https://github.com/sgreenley/sgreenley/assets/21015978/4b6b9ddc-ebe8-4047-b12f-a371f6f66d35)
 
 Thank you for taking the time to view my Portfolio. I am excited to be taking a new career path, I initially began my career as a Financial Advisor. There is no doubt about the importance of data in the modern era of business: it is a vital asset, This is because data is equivalent to knowledge. 
 
