@@ -1,11 +1,11 @@
 ### Hi there 👋, my name is Stuart Greenley
-![](https://www.canva.com/design/DAFjMlSReWY/BWv7BE6A523eYHSfrW-V4w/edit?utm_content=DAFjMlSReWY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![]([https://((https://drive.google.com/file/d/1e5bwiCgcapjCzqitROgZ6S2LvxXg4m82/view?usp=share_link))
 
 Thank you for taking the time to view my Portfolio. I am excited to be taking a new career path, I initially began my career as a Financial Advisor. There is no doubt about the importance of data in the modern era of business: it is a vital asset, This is because data is equivalent to knowledge. 
 
 Skills: SQL / Tableau / Excel / Pyhton
 
-- 🔭 I’m currently working on this page. 
+
 
 
 
