@@ -6,6 +6,8 @@ Thank you for taking the time to view my Portfolio. I am excited to be taking a 
 
 Skills: SQL / Tableau / Excel / Pyhton
 
+Please check out my Portfolio -Guide Below for projects I have completed. 
+
 
 
 
