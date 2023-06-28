@@ -4,11 +4,11 @@
 ### Hi there 👋, my name is Stuart Greenley
 Thank you for taking the time to view my Portfolio. I am excited to be taking a new career path, I initially began my career as a Financial Advisor. There is no doubt about the importance of data in the modern era of business: it is a vital asset, This is because data is equivalent to knowledge. 
 
-If you'd like to see some examples of the interesting projects I have worked on in Excel, SQL Python and Tableau. Please check out my Portfolio -Guide Below. 
+If you'd like to see some examples of the interesting projects I have worked on in Excel, SQL Python and Tableau.  
 
 Skills: SQL / Tableau / Excel / Python
 
-
+## Please check out my Portfolio -Guide Below.
 
 
 
